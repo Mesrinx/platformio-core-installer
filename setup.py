@@ -41,7 +41,7 @@ setup(
         "semantic-version==2.8.5",
         "certifi==2020.12.5",
         # Misc
-        "wheel==0.36.2",
+        "wheel==0.38.1",
     ],
     packages=find_packages(),
     entry_points={
